@@ -11,6 +11,8 @@
 |
 */
 
+Route::get('/refereshcapcha', 'HelperController@refereshCapcha');
+
 Route::get('/', function () {
     return view('welcome');
 });

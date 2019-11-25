@@ -1,2 +1,5 @@
 {
+    "require": {
+        "mews/captcha": "^3.0"
+    }
 }
